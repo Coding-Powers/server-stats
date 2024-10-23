@@ -40,3 +40,7 @@ The script outputs the following statistics:
    ```bash
    ./server-stats.sh
    ```
+## Reference:
+```
+https://roadmap.sh/projects/server-stats
+```
